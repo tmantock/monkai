@@ -14,7 +14,7 @@ func main() {
 		panic(err)
 	}
 
-	fmt.Printf("Hello %s! this is the Monkai Programming Language!\n", user.Username)
+	fmt.Printf("Hello %s! This is the Monkai Programming Language!\n", user.Username)
 	fmt.Printf("Please feel free to type in commands.\n")
 	repl.Start(os.Stdin, os.Stdout)
 }
