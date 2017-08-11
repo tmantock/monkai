@@ -1,3 +1,3 @@
 # Monkai
 
-Programming Language made in Go.
+Monkai Interpreted Programming Language made in Go.
