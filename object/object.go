@@ -42,7 +42,7 @@ func (b *Boolean) Inspect() string {
 }
 
 func (n *Null) Type() ObjectType {
-	return ObjectType
+	return NULL_OBJ
 }
 
 func (n *Null) Inspect() string {
